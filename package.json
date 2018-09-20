@@ -1,0 +1,25 @@
+{
+  "name": "testcafe-reporter-st-json",
+  "version": "0.1.0",
+  "description": "testcafe-reporter-st-json",
+  "main": "lib/index",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1600133971/testcafe-reporter-st-json.git"
+  },
+  "keywords": [
+    "testcafe",
+    "reporter",
+    "plugin",
+    "json"
+  ],
+  "author": "1600133971",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1600133971/testcafe-reporter-st-json/issues"
+  },
+  "homepage": "https://github.com/1600133971/testcafe-reporter-st-json#readme"
+}
