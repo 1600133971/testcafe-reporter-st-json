@@ -1,6 +1,6 @@
 {
   "name": "testcafe-reporter-st-json",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "testcafe-reporter-st-json",
   "main": "lib/index",
   "scripts": {
